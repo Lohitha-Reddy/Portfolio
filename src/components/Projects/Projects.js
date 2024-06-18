@@ -52,7 +52,7 @@ integrating various components for robust performance."
               imgPath={data}
               isBlog={false}
               title="Data Modeler"
-              description="Successfully loaded Carvana car sales data into AWS S3. Conducted data cleansing procedures to remove null values and ensure data quality. Designed and implemented Fact and Dimension tables to organize the data effectively. Modeled the data through Medallion architecture stages (Bronze, Silver, Gold) to ensure data reliability and
+              description="Successfully loaded Carvana car sales data into AWS S3. Conducted data cleansing procedures using Databricks to remove null values and ensure data quality. Designed and implemented Fact and Dimension tables to organize the data effectively. Modeled the data through Medallion architecture stages (Bronze, Silver, Gold) to ensure data reliability and
 performance. Created insightful and meaningful visualizations using Power BI to support data-driven decision-making.
 "/>
           </Col>
